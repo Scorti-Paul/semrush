@@ -1,2 +1,2 @@
 # semrush
-Semrush newletter html email template
+Semrush newsletter html email template
